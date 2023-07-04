@@ -10,7 +10,7 @@ redirect_from:
 
 # Current
 
-Welcome to my website, I am under the supervision of Prof. Fan Xu, the website of our Lab is: [www.XuLab.cc](http://www.XuLab.cc), My Blog: [www.rippleslong.cn](http://www.rippleslong.cn)
+Welcome to my website, I am under the supervision of Prof. Fan Xu, the website of our Lab is: www.XuLab.cc
 
 Short Bio
 ======
