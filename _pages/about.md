@@ -15,7 +15,7 @@ Welcome to my website, I am under the supervision of Prof. Fan Xu, the website o
 Short Bio
 ======
 
-I am ***Tai-Long Chen***, a first-year graduate student at ADVANCED RESEARCH INSTITUTE OF MULTIDISCIPLINARY SCIENCE, Beijing Institute of Technology, with a research interest in super-resolution imaging.
+I am ***Tai-Long Chen***, a first-year graduate student at Advanced Research Institute of Multidisciplinary Sciences, Beijing Institute of Technology, with a research interest in super-resolution imaging.
 
 My primary research interests are ***High Performance Computing, Deep Learning***
 
